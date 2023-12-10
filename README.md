@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">A passionate fullstack developer from Ecuador</h3>
 
-- 🌱 I’m currently learning **Angular, React, .Net Core**
+- 🌱 I’m currently learning **Node.js, .Net Core**
 
-- 💬 Ask me about **Php, Laravel, Flutter**
+- 💬 Ask me about **Php, Laravel, React, Flutter**
 
 - 📫 How to reach me **ccmarco090999@gmail.com**
 
